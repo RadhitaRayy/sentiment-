@@ -1,2 +1,5 @@
 streamlit
 openai
+transformers
+numpy
+tensorflow
