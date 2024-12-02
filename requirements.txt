@@ -1,5 +1,6 @@
-streamlit
-openai
-transformers
-numpy
-tensorflow
+streamlit==1.17.2
+transformers==4.30.2
+tensorflow==2.13.0
+numpy==1.23.5
+pyngrok==5.1.0
+tf-keras==3.0.0
